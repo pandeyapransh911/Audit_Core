@@ -16,4 +16,9 @@ frontend/node_modules/
 .DS_Store
 
 chroma_data/
-backend/chroma_data/
+backend/chroma_data/.venv/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+.env
